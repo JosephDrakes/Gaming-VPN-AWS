@@ -4,7 +4,7 @@ A high-performance, low-latency private VPN server hosted on AWS EC2 using WireG
 
 ---
 
-## 🛠 Architecture & Features
+##  Architecture & Features
 
 - **Cloud Provider:** Amazon Web Services (AWS)
 - **Compute Instance:** AWS EC2 (`t2.micro` / `t3.micro` - Ubuntu Linux)
@@ -18,16 +18,10 @@ A high-performance, low-latency private VPN server hosted on AWS EC2 using WireG
 
 ---
 
-## 📋 Prerequisites
-
-- An active **AWS Account**
-- **AWS CLI** installed and configured (optional) or access to the **AWS Management Console**
-- A client device running **WireGuard** (Windows, macOS, Linux, iOS, or Android)
-- Basic knowledge of Linux shell commands and SSH
 
 ---
 
-## 🚀 Deployment & Configuration
+##  Deployment & Configuration
 
 ### 1. AWS EC2 Provisioning
 1. Launch an EC2 Instance using **Ubuntu 22.04 / 24.04 LTS**.
